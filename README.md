@@ -29,7 +29,7 @@ Cherry 将用自动化的方式调整 macOS 的系统音量，让声音不过小
 
 ![second](https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie.gif)
 
-如果音源本身的音量发生变化，会自动调节系统音量，让声音听起来音量差不多。
+如果音源本身的音量发生变化，Cherry 会自动调节系统音量，让音量听起来差不多。
 
 ![third](https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie%202.gif)
 
