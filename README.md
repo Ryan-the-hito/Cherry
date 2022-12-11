@@ -2,6 +2,31 @@
 
 ![Title](https://github.com/Ryan-the-hito/Cherry/blob/main/image/Cherry_Title.png)
 
+## ℹ️基本介绍：
+
+如果您经常有以下的情形，那么也许 Cherry 将解决您的问题：
+
+- 听音乐时，不同的曲目音量不同，炸耳朵，需要手动调整，很麻烦
+- 参加线上会议时，不同参会者设备质量参差不齐，声音忽大忽小，轰得耳朵嗡嗡响
+- 看录像时，……
+- 看电影时，……
+
+Cherry 将用自动化的方式调整 macOS 的系统音量，让声音不过小，也不过大，大了自动调小，小了自动调大，保持在你希望的区间内。
+
+众所周知，macOS 在内录声音、调节声道方面相当封闭，不像其他操作系统那样允许软件获取任意声道的信息。因此现有的市面上的调节声道的工具，如 Soundflower（现在的 Loopback）、SoundSource 等都需要关闭 SIP 安全模式，通过修改系统来实现功能。（不是说这些工具不好。因为，如果当下要实现那些功能，只有它们是做得最好的。）
+
+**但是 Cherry 不需要关闭 SIP！**（大家不必一说到 macOS 的声音软件就害怕啦hhh）
+
+另外，macOS 还没有自动化调节音量的工具。
+
+**但是 Cherry 就是为了自动化而生的！**
+
+如果有了 Cherry，它会实现怎样的效果呢？
+
+<video id="video" controls="" preload="none" poster="https://github.com/Ryan-the-hito/Cherry/blob/main/image/Cherry_Title.png">
+  <source id="mp4" src="https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie.mp4" type="video/mp4">
+</video>
+
 ## ⚙️使用方法：
 
 ### 第 1 步：安装 BlackHole
