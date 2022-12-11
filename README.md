@@ -65,6 +65,9 @@
 ### 问题3：两行都有动静，但声音却没有变化：Accessibility 权限错误
 
 - 这说明 Cherry 收到了声音信息，但是却无法对系统设置发号施令，大概是没有打开辅助功能的权限。
-- 请打开系统设置，给 Cherry
+- 请打开系统设置，在相应的权限版块勾选 Cherry，重启 Cherry 即可。
 
-- 如果选择了 BlackHole 2ch 仍然出现了上述现象，说明是系统迟钝的问题。这个问题我自己也偶尔遇到，就像切换输入法的时候，图标改变了，但实际的输入法还是没有切换过来一样，macOS 在一些切换上确实是比较迟钝的，这就是为什么必须在打开 Cherry 之前先设置好声道。如果遇到这种情况，请重新切换一下声道，然后重启 Cherry 即可。 
+### 其他情况：
+
+- 请打开 Cherry 的全磁盘权限（Full Disk Access）
+- 请保证终端设备（Terminal）和 Cherry 一样拥有 Accessibbility、Microphone 和 Full Disk Access 的权限。
