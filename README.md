@@ -86,7 +86,7 @@ Cherry 将用自动化的方式调整 macOS 的系统音量，让声音不过小
 
 - 说明 Cherry 没有收到来自系统的声音信息。
 - 请打开系统设置看看是否开启了麦克风权限。
-- 如果 Cherry 没有显示在麦克风权限的列表中，请使用以下代码，复制进入终端后执行，输入密码，即可在列表中见到 Cherry：
+- 如果 Cherry 没有显示在麦克风权限的列表中，请首先给终端全磁盘权限（Full Disk Access，不然无权限执行），接着使用以下代码，复制进入终端后执行，输入密码，即可在列表中见到 Cherry：
 
 `sudo sqlite3 ~/Library/Application\ Support/com.apple.TCC/TCC.db "INSERT or REPLACE INTO access VALUES('kTCCServiceMicrophone','org.pythonmac.unspecified.Cherry',0,0,4,1,NULL,NULL,0,'UNUSED',NULL,0,1622199671);"`
 
