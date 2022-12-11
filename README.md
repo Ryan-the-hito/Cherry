@@ -23,9 +23,17 @@ Cherry 将用自动化的方式调整 macOS 的系统音量，让声音不过小
 
 如果有了 Cherry，它会实现怎样的效果呢？
 
-<video id="video" controls="" preload="none" poster="https://github.com/Ryan-the-hito/Cherry/blob/main/image/Cherry_Title.png">
-  <source id="mp4" src="https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie.mp4" type="video/mp4">
-</video>
+首先，音量会实时自动调整。
+
+![first](https://github.com/Ryan-the-hito/Cherry/blob/main/image/CleanShot%202022-12-09%20at%2018.05.35.gif)
+
+![second](https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie.gif)
+
+如果音源本身的音量发生变化，会自动调节系统音量，让声音听起来音量差不多。
+
+![third](https://github.com/Ryan-the-hito/Cherry/blob/main/image/My%20Movie%202.gif)
+
+所以，如果打算开始使用 Cherry 了，那么还有一些前提步骤需要完成。尽管它不需要对安全设置大动干戈，它还是需要一些精细的设置。希望下面的说明足够详细和有用。
 
 ## ⚙️使用方法：
 
