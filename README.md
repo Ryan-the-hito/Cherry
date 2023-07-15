@@ -1,4 +1,4 @@
-# 🍒Cherry: Make your volume change softer
+# 🍒Cherry: Make Your Volume Change Softer
 
 ![Title](https://github.com/Ryan-the-hito/Cherry/blob/main/image/Cherry_Title.png)
 
